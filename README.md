@@ -4,7 +4,7 @@
 
 **torflixd** is a Python BitTorrent engine behind a FastAPI HTTP + WebSocket API; it serves the **Torflix web UI** on your machine. The browser never talks to the swarm—only your daemon does. Browse the catalog, add magnets, download full files, or **watch while downloading** (MP4/WebM work best).
 
-**Use only content you are allowed to download and share.** 
+**Use only content you are allowed to download and share. I have to say it, iykyk** 
 
 You can run the daemon locally (default **`http://127.0.0.1:8765`**); the UI alone cannot join swarms.
 
