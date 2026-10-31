@@ -1,6 +1,6 @@
 # Torflix
 
-**A movie library on your hardware, aimed at a century of film in the wild, not this month's licensed row.**
+**A movie library on your hardware**
 
 **torflixd** is a Python BitTorrent engine behind a FastAPI HTTP + WebSocket API; it serves the **Torflix web UI** on your machine. The browser never talks to the swarm—only your daemon does. Browse the catalog, add magnets, download full files, or **watch while downloading** (MP4/WebM work best).
 
